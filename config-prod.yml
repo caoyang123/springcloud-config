@@ -1,5 +1,5 @@
 spring:
   application:
-    name: springcloud-config-dev
+    name: springcloud-config-prod
   profiles:
-    active: dev
+    active: prod
